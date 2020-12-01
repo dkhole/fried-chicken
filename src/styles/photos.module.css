@@ -1,0 +1,10 @@
+#photos {
+    height: 1410px;
+}
+
+#photos img{
+    max-width: 470px;
+    max-height: 470px;
+    margin: 0;
+    padding: 0;
+}
